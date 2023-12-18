@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<meta charset="ISO-8859-1">
+
+<title>Input</title>
+
+</head>
+
+<body>
+
+<pre>
+
+Existing User <a href=signin.html>Sign in</a>
+
+New User   <a href=signup.html>Sign up</a>
+
+
+</pre>
+
+</body>
+
+</html> 
