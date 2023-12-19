@@ -1,0 +1,43 @@
+1 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+
+2 pageEncoding="ISO-8859-1"%>
+
+3 <!DOCTYPE html>
+
+40<html>
+
+50 <head>
+
+6 <meta charset="ISO-8859-1">
+
+7 <title>Login</title>
+
+8 </head>
+
+90 <body>
+
+10
+
+110<div align=center>
+
+12 <h1>User Login</h1>
+
+13 </div>
+
+140<form action-LoginServlet method=post>
+
+150 <table>
+
+Attribute: action
+
+160 <tr><td>Enter Data Type: URI ><td><input type=text name=txtName></td></tr> 17 <tr><td>Enter Password: </th> <td><input type=password name=txtPwd></td></tr>
+
+18 <tr><td><input type=submit value-Login></td><td><input type=reset></td></tr>
+
+19 </table>
+
+20 </form>
+
+21 </body>
+
+22 </html>
